@@ -1,0 +1,17 @@
+# --- NAME  ---
+APP_NAME='CRISPR BACKEND API'
+
+# --- DB ---
+# SQLALCHEMY_DATABASE_URI='dbms://user_db:password@host/dabasename'
+# dbms: postgresql  (or other: mysql)
+# user_db: username for database
+# password: passowrd for user_db
+# host: host where dbms is running
+# dabasename: database name
+
+SQLALCHEMY_TRACK_MODIFICATIONS=False
+# --- FLASK ---
+# Select port number
+# FLASK_RUN_PORT=pot_number
+FLASK_APP=api
+# FLASK_DEBUG=True/False

@@ -1,0 +1,100 @@
+"""type Mutation {
+    createPost(title: String!, description: String!, created_at: String): PostResult!
+}
+"""
+type Query {
+    getStatistics: Statistics
+    getTableData(currentPage: Int!, pageSize: Int!,specie:String!, crisprStatus: [String]!, strainNameOrAssembly: String!): TableData
+    getInformationByAssembly(assembly: String!): GeneralStrainInformation
+    laboratoryAnalysis(fastaContent: [String!], analysisType: String!): FastaAnalysis
+    getUselessPhages(spacers: [String!]): UselessPhages
+}
+schema {
+    query: Query
+    # mutation: Mutation
+}
+
+type TotalInformation {
+    total: Int!
+}
+
+type SummaryData {
+    strain: TotalInformation,
+    phage: TotalInformation,
+    crisprArray: TotalInformation,
+    accessionNumber: TotalInformation
+}
+
+type SummaryStrain {
+  label: String!
+  withCrispr: Int!
+  withoutCrispr: Int!
+  total: Int!
+  percentWith: Float!
+  percentWithout: Float!
+}
+
+type SeriesData {
+    label: String!
+    value: Int!
+    percent: Float!
+}
+
+type Statistics {
+    summaryData: SummaryData
+    summaryStrain: [SummaryStrain]
+    seriesData: [SeriesData]
+}
+
+type TableRowData {
+    strain: String!
+    assembly: String!
+    accessionNumber: String!
+    specie: String!
+    phylotype: String!
+    consensusRepeatSequences: String!
+    crispr: Boolean
+    crisprType: String!
+}
+type pagination {
+    currentPage: Int!
+    totalPages: Int!
+}
+
+type TableData {
+    pagination: pagination,
+    rowsData: [TableRowData]
+}
+
+type PhageDetails {
+        phageName: String
+}
+
+type GeneralStrainInformation {
+    strain: String!
+    assembly: String!
+    accessionNumberRf: String!
+    accessionNumberGenBank: String!
+    specie: String!
+    phylotype: String!
+    consensusRepeatSequences: String!
+    phagesInCrisprArray: [String]!
+    availablePhages: Int
+    lengthCrisprArray: Int
+    listPotentialPhages: [PhageDetails]
+    isCrispr: Boolean
+    crisprType: String!
+    observation: String!
+    scoreCrisprIdentify: String!
+}
+
+type FastaAnalysis {
+    fastaAnalisis: [String!]
+    zipFiles: [String!]
+    casSummary: [String!]
+    spacers: [String!]
+}
+
+type UselessPhages {
+    uselessPhages: [String!]
+}

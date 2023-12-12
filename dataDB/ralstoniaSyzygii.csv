@@ -1,0 +1,25 @@
+Strain,Phylotype,Assembly,Level,RF,GB,WGS,Scaffolds,CRISPRArray,NumberOfArrays,Consensus,TypeOfCRISPR,Observation,Score (CRISPRidentify)
+UGMSS_Db01,4,GCA_016743075.1,Complete,NZ_CP068285.1,CP068285.1,,,YES,1,GTGTTCCCCGCGTGGGCGGGGATGAACCG,I-E,One structurally functional array (score 0.621) upstream of the type I-E Cas cassette in the reverse strand. There are putative and repetitive proteins inside the Cas cassette that must be further confirmed or discarded.,0.621
+NCPPB 3727,4,GCA_015910595.1,Contig,,,JACWNE01,4,YES,2,"GTGTTCCCCGCGTAGGCGGGGATGAACCG -
+GTGTTCCCCGCGTGGGCGGGGATGAACCG",I-E,One structurally functional array (score 0.621) upstream of the type I-E Cas cassette in the reverse strand. There are putative and repetitive proteins inside the Cas cassette that must be further confirmed or discarded.,0.621
+NCPPB 3219,4,GCA_015910645.1,Contig,,,JACWNH01,18,YES,1,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,II-C,"At least one genomically bona-fide and structurally functional array in the reverse strand (score 0.673) downstream of the Cas cassette,  which is in the plus strand.",0.673
+LLRS-1,4,GCA_018243215.1,Complete,NZ_CP046729.1,CP046729.1,,,YES,2,"CCGCCGAGGCTGCTCAGCGCGC -
+AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC",II-C,"At least one genomically bona-fide and structurally functional array in the reverse strand (score 0.673) downstream of the Cas cassette, which is in the plus strand.",0.673
+NCPPB 3445,4,GCA_015910655.1,Contig,,,JACWNF01,16,NO,,,,,
+LMG 10661,4,GCA_919592095.1,Contig,,,CAKKOY01,348,NO,,,,,
+KACC 10722,4,GCA_001586135.1,Complete,NZ_CP014702.1,CP014702.1,,,NO,,,,,
+PSI07,4,GCA_000283475.1,Complete,NC_014311.1,FP885906.2,,,NO,,,,,
+SL2064,4,GCA_003515445.1,Complete,NZ_CP022798.1,CP022798.1,,,NO,,,,,
+SL2312,4,GCA_003515425.1,Complete,NZ_CP022796.1,CP022796.1,,,YES,1,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,II-C,"At least one genomically bona-fide and structurally functional array in the reverse strand (score 0.673) downstream of the Cas cassette,  which is in the plus strand.",0.673
+SL3022,4,GCA_003515385.1,Complete,CP023016.1,,,,YES,2,GTGTTCCCCGCGTGGGCGGGGATGAACCG - GTGTTCCCCGCGCAGGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.725) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe,  they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.725
+SL3175,4,GCA_003515185.1,Complete,NZ_CP022788.1,CP022788.1,,,MAYBE,1,CAGATAGCCGTAGGTATCGGCCTGGCGATCGGCGCC,,No structurally functional array and no Cas cassette were found.,
+T101,4,GCA_003515485.1,Complete,NZ_CP022757.1,CP022757.1,,,YES,1,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,II-C,"At least one genomically bona-fide and structurally functional array in the reverse strand (score 0.673) downstream of the Cas cassette,  which is in the plus strand.",0.673
+T11,4,GCA_003515165.1,Complete,NZ_CP022776.1,CP022776.1,,,NO,,,,,
+T12,4,GCA_003515325.1,Complete,NZ_CP022774.1,CP022774.1,,,YES,1,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,II-C,"At least one genomically bona-fide and structurally functional array in the reverse strand (score 0.673) downstream of the Cas cassette,  which is in the plus strand.",0.673
+T51,4,GCA_003515145.1,Complete,NZ_CP022770.1,CP022770.1,,,NO,,,,,
+T82,4,GCA_003515525.1,Complete,NZ_CP022763.1,CP022763.1,,,YES,1,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,II-C,"At least one genomically bona-fide and structurally functional array in the reverse strand (score 0.673) downstream of the Cas cassette,  which is in the plus strand.",0.673
+T95,4,GCA_003515505.1,Complete,NZ_CP022761.1,CP022761.1,,,NO,,,,,
+T98,4,GCA_003515265.1,Complete,NZ_CP022759.1,CP022759.1,,,NO,,,,,
+A2-HR MARDI,4,GCA_002012345.1,Complete,NZ_CP019911.1,CP019911.1,,,YES,1,GTGTTCCCCGCGTGGGCGGGGATGAACCG,I-E,One structurally functional array (score 0.621) upstream of the type I-E Cas cassette in the reverse strand. There are putative and repetitive proteins inside the Cas cassette that must be further confirmed or discarded.,0.621
+R24,4,GCA_029219965.1,Contig,,,,,YES,1,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,II-C,"At least one genomically bona-fide and structurally functional array in the forward strand (score 0.673) downstream of the Cas cassette,  which is in the minus strand.",0.673
+R229,4,FR854085.1,Contig,,,,,YES,2,GTGTTCCCCGCGTAGGCGGGGATGAACCG - GTGTTCCCCGCGTGGGCGGGGATGAACCG,I-E,One structurally functional array (score 0.621) upstream of the type I-E Cas cassette in the reverse strand. There are putative and repetitive proteins inside the Cas cassette that must be further confirmed or discarded.,0.621

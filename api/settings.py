@@ -1,0 +1,5 @@
+from os import environ
+
+APP_NAME = environ.get('APP_NAME')
+DATABASE_URI = environ.get('SQLALCHEMY_DATABASE_URI')
+TRACK_MODIFICATIONS = environ.get('SQLALCHEMY_TRACK_MODIFICATIONS')

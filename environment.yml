@@ -1,0 +1,8 @@
+name: crisprBack
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - psycopg2
+prefix: /home/washo/miniconda3/envs/crisprBack

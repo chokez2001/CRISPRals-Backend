@@ -1,0 +1,362 @@
+Strain,Phylotype,Assembly,Level,RF,GB,WGS,Scaffolds,CRISPRArray,NumberOfArrays,Consensus,TypeOfCRISPR,Observation,Score (CRISPRidentify)
+CFBP2957,2A,GCA_000197855.1,Chromosome,FP885897.1,,,1,YES,2,GTGTTCCCCGCGTGGGCGAGGATGAGGCG - GTGTTCCCCGCGCCTGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.722) downstream of the type I-E Cas cassette in the forward strand; presumably, the other is a product of off-target spacer integration or follows the CRISPR-I and CRISPR-II arrangement of E. coli. The repeat consensus sequence of the low-score array has low similarity with the repeat of the high-score array.",0.722
+CIP417_UW70,2B,GCA_021117115.1,Chromosome,NZ_CP088235.1,CP088235.1,,,YES,2,GTGTTCCCCGCGCCTGCGGGGATGAACCG - GTGTTCCCCGCGTGGGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.634) downstream of the type I-E Cas cassette in the reverse strand. The repeat of the low-score array is very similar to the repeat sequence of the high-score array. Maybe, they are products of a recombination event of the Cas proteins.",0.634
+CMR15,3,GCA_000427195.1,Chromosome,NC_017559.1,FP885895.1,,,NO,,,,,
+CRMRs218,2A,GCA_003612975.2,Chromosome,NZ_CP021764.2,CP021764.2,,,NO,,,,,
+FQY_4,1,GCA_000348545.1,Chromosome,NC_020799.1,CP004012.1,,,NO,,,,,
+IBSBF 2570,2A,GCA_003590585.2,Chromosome,NZ_CP026090.2,CP026090.2,,,YES,2,GTGTTCCCCGCGTGGGCGGGGATGAACCG - GTGTTCCCCGCGCCTGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.761) downstream of the type I-E Cas cassette in the forward strand. The repeat of the low-score array is very similar to the repeat sequence of the high-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.761
+P824,1,GCA_003576625.1,Chromosome,NZ_CP025741.1,CP025741.1,,,NO,,,,,
+Rs-09-161,1,GCA_000671335.1,Chromosome,NZ_CM002757.1,CM002757.1,,,YES,2,GTGTTCCCCGCGCATGCGGGGATGAACCG - GTGTTCCCCGCGTGTGCGGGGATGAACCG,,,
+Rs-10-244,1,GCA_000671315.1,Chromosome,NZ_CM002755.1,CM002755.1,,,NO,,,,,
+SFC,2A,GCA_003590625.2,Chromosome,NZ_CP026092.2,CP026092.2,,,YES,2,GTGTTCCCCGCGTGGGCGGGGATGAACCG - GTGTTCCCCGCGCCTGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.761) downstream of the type I-E Cas cassette in the forward strand. The repeat of the low-score array is very similar to the repeat sequence of the high-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.762
+T523,1,GCA_003595325.1,Chromosome,NZ_CP022702.1,CP022702.1,,,NO,,,,,
+UA-1579,2B,GCA_003860725.1,Chromosome,NZ_CP034194.1,CP034194.1,,1,NO,,,,,
+UA-1591,2B,GCA_003860705.1,Chromosome,NZ_CP034195.1,CP034195.1,,1,YES,2,GTGTTCCCCGCGCCTGCGGGGATGAACCG - GTGTTCCCCGCGTGGGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.634) downstream of the type I-E Cas cassette in the reverse strand. The repeat of the low-score array is very similar to the repeat sequence of the high-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.634
+UA-1609,2B,GCA_003860765.1,Chromosome,NZ_CP034197.1,CP034197.1,,1,NO,,,,,
+UA-1611,2A,GCA_003860685.1,Chromosome,NZ_CP034196.1,CP034196.1,,1,NO,,,,,
+UA-1612,2A,GCA_003860665.1,Chromosome,NZ_CP034198.1,CP034198.1,,1,NO,,,,,
+UA-1617,2B,GCA_003860745.1,Chromosome,NZ_CP034199.1,CP034199.1,,1,YES,2,GTGTTCCCCGCGCCTGCGGGGATGAACCG -  GTGTTCCCCGCGTGGGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.634) downstream of the type I-E Cas cassette in the reverse strand. The repeat of the low-score array is very similar to the repeat sequence of the high-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.634
+UW251,2A,GCA_021117135.1,Chromosome,NZ_CP088237.1,CP088237.1,,,YES,2,GTGTTCCCCGCGTGGGCGGGGATGAACCG -  GTGTTCCCCGCGCCTGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.762) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.762
+UW72,2B,GCA_021117095.1,Chromosome,NZ_CP088233.1,CP088233.1,,,NO,,,,,
+202,1,GCA_011290465.1,Complete,NZ_CP049789.1,CP049789.1,,2,NO,,,,,
+203,1,GCA_011290445.1,Complete,NZ_CP049791.1,CP049791.1,,2,NO,,,,,
+204,1,GCA_011290425.1,Complete,NZ_CP049793.1,CP049793.1,,2,NO,,,,,
+362200,1,GCA_015999365.1,Complete,NZ_CP065531.1,CP065531.1,,,YES,1,CGGTGGCGACGGCAACGACACC,,,
+B2,1,GCA_011290405.1,Complete,NZ_CP049787.1,CP049787.1,,2,NO,,,,,
+CFBP 8695,2B,GCA_009832805.1,Complete,CP047138.1,,,,NO,,,,,
+CFBP 8697,2B,GCA_009832785.1,Complete,CP047136.1,,,,NO,,,,,
+CIAT_078,2B,GCA_012562465.1,Complete,NZ_CP051296.1,CP051296.1,,,YES,2,GTGTTCCCCGCGTGGGCGGGGATGAACCG - GTGTTCCCCGCGCCTGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.603) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.603
+CQPS-1,1,GCA_002220465.1,Complete,NZ_CP016914.1,CP016914.1,,,NO,,,,,
+EP1,1,GCA_001891105.1,Complete,NZ_CP015115.1,CP015115.1,,,NO,,,,,
+FJ1003,1,GCA_020923475.1,Complete,NZ_CP087277.1,CP087277.1,,,NO,,,,,
+FJAT1303.F1,1,GCA_013306955.1,Complete,NZ_CP052128.1,CP052128.1,,,NO,,,,,
+FJAT1303.F50,1,GCA_013306935.1,Complete,NZ_CP052126.1,CP052126.1,,,NO,,,,,
+FJAT1303.F8,1,GCA_013306915.1,Complete,NZ_CP052130.1,CP052130.1,,,NO,,,,,
+FJAT1452.F1,1,GCA_013306875.1,Complete,NZ_CP052124.1,CP052124.1,,,NO,,,,,
+FJAT1452.F50,1,GCA_013306845.1,Complete,NZ_CP052122.1,CP052122.1,,,NO,,,,,
+FJAT-1458,1,GCA_001887535.1,Complete,NZ_CP016554.1,CP016554.1,,,NO,,,,,
+FJAT1458.F1,1,GCA_013306825.1,Complete,NZ_CP052120.1,CP052120.1,,,NO,,,,,
+FJAT1458.F50,1,GCA_013306785.1,Complete,NZ_CP052118.1,CP052118.1,,,NO,,,,,
+FJAT1463.F1,1,GCA_013306805.1,Complete,NZ_CP052116.1,CP052116.1,,,NO,,,,,
+FJAT1463.F50,1,GCA_013306765.1,Complete,NZ_CP052114.1,CP052114.1,,,NO,,,,,
+FJAT15244.F1,1,GCA_013306745.1,Complete,NZ_CP052112.1,CP052112.1,,,NO,,,,,
+FJAT15244.F50,1,GCA_013306655.1,Complete,NZ_CP052110.1,CP052110.1,,,NO,,,,,
+FJAT15244-F8,1,GCA_013704765.1,Complete,NZ_CP059376.1,CP059376.1,,,NO,,,,,
+FJAT15249.F1,1,GCA_013306575.1,Complete,NZ_CP052108.1,CP052108.1,,,NO,,,,,
+FJAT15249.F50,1,GCA_013306545.1,Complete,NZ_CP052106.1,CP052106.1,,,NO,,,,,
+FJAT15252.F1,1,GCA_013306515.1,Complete,NZ_CP052104.1,CP052104.1,,,NO,,,,,
+FJAT15252.F50,1,GCA_013306495.1,Complete,NZ_CP052102.1,CP052102.1,,,NO,,,,,
+FJAT15304.F1,1,GCA_013306455.1,Complete,NZ_CP052100.1,CP052100.1,,,NO,,,,,
+FJAT15304.F50,1,GCA_013306475.1,Complete,NZ_CP052098.1,CP052098.1,,,NO,,,,,
+FJAT15304.F6,1,GCA_013306435.1,Complete,NZ_CP052096.1,CP052096.1,,,NO,,,,,
+FJAT15340.F1,1,GCA_013306415.1,Complete,NZ_CP052094.1,CP052094.1,,,NO,,,,,
+FJAT15340.F50,1,GCA_013306375.1,Complete,NZ_CP052092.1,CP052092.1,,,NO,,,,,
+FJAT15340.F6,1,GCA_013306395.1,Complete,NZ_CP052090.1,CP052090.1,,,NO,,,,,
+FJAT15353.F1,1,GCA_013306355.1,Complete,NZ_CP052088.1,CP052088.1,,,MAYBE,,,,,
+FJAT15353.F50,1,GCA_013306335.1,Complete,NZ_CP052086.1,CP052086.1,,,NO,,,,,
+FJAT15353.F8,1,GCA_013306315.1,Complete,NZ_CP052084.1,CP052084.1,,,NO,,,,,
+FJAT442.F1,1,GCA_013306295.1,Complete,NZ_CP052082.1,CP052082.1,,,NO,,,,,
+FJAT442.F50,1,GCA_013306275.1,Complete,NZ_CP052080.1,CP052080.1,,,NO,,,,,
+FJAT445.F1,1,GCA_013306255.1,Complete,NZ_CP052078.1,CP052078.1,,,NO,,,,,
+FJAT445.F50,1,GCA_013306235.1,Complete,NZ_CP052076.1,CP052076.1,,,NO,,,,,
+FJAT448.F1,1,GCA_013306205.1,Complete,NZ_CP052074.1,CP052074.1,,,NO,,,,,
+FJAT448.F50,1,GCA_013306155.1,Complete,NZ_CP052072.1,CP052072.1,,,NO,,,,,
+FJAT454.F1,1,GCA_013306095.1,Complete,NZ_CP052070.1,CP052070.1,,,NO,,,,,
+FJAT454.F50-1,,GCA_014490805.1,Complete,NZ_CP060701.1,CP060701.1,,,NO,,,,,
+FJAT-91,1,GCA_002155245.1,Complete,NZ_CP016612.1,CP016612.1,,,NO,,,,,
+FJAT91-F1,1,GCA_013375715.1,Complete,NZ_CP056083.1,CP056083.1,,,NO,,,,,
+FJAT91.F50,1,GCA_013306015.1,Complete,NZ_CP052068.1,CP052068.1,,,NO,,,,,
+FJAT91-F8,1,GCA_013375735.1,Complete,NZ_CP056085.1,CP056085.1,,,NO,,,,,
+GMI1000,1,GCA_000009125.1,Complete,NC_003295.1,AL646052.1,,,NO,,,,,
+HA4-1,1,GCA_003999715.1,Complete,NZ_CP022481.1,CP022481.1,,,YES,1,CGGTGGCGACGGCAACGACACC,,,
+IBSBF 2571,2B,GCA_003590605.1,Complete,NZ_CP026307.1,CP026307.1,,,YES,2,GTGTTCCCCGCGTGGGCGGGGATGAACCG - GTGTTCCCCGCGCCTGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.634) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.634
+IBSBF1503,2B,GCA_001587155.1,Complete,NZ_CP012943.1,CP012943.1,,,YES,2,GTGTTCCCCGCGCCTGCGGGGATGAACCG - GTGTTCCCCGCGTGGGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.732) downstream of the type I-E Cas cassette in the reverse strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.732
+KACC 10722,4,GCA_001586135.1,Complete,NZ_CP014702.1,CP014702.1,,,NO,,,,,
+KACC10709,1,GCA_001708525.1,Complete,NZ_CP016904.1,CP016904.1,,,NO,,,,,
+MAFF 211471,1,GCA_015097935.1,Complete,NZ_AP024097.1,AP024097.1,,,NO,,,,,
+MAFF 211472,1,GCA_015698345.1,Complete,NZ_AP024157.1,AP024157.1,,,NO,,,,,
+MAFF 211479,1,GCA_015098135.1,Complete,NZ_AP024099.1,AP024099.1,,,NO,,,,,
+MAFF 211479,1,GCA_015698365.1,Complete,NZ_AP024159.1,AP024159.1,,,NO,,,,,
+MAFF 211491,1,GCA_015098255.1,Complete,NZ_AP024101.1,AP024101.1,,,NO,,,,,
+MAFF 241647,1,GCA_015098595.1,Complete,NZ_AP024105.1,AP024105.1,,,NO,,,,,
+MAFF 241648,1,GCA_015098755.1,Complete,NZ_AP024107.1,AP024107.1,,,NO,,,,,
+MAFF 301560,1,GCA_015098475.1,Complete,NZ_AP024103.1,AP024103.1,,,NO,,,,,
+MAFF 311693,1,GCA_015698385.1,Complete,NZ_AP024161.1,AP024161.1,,,NO,,,,,
+OE1-1,1,GCA_001879565.1,Complete,NZ_CP009764.1,CP009764.1,,,NO,,,,,
+Po82,2B,GCA_000215325.1,Complete,NC_017574.1,CP002819.1,,,NO,,,,,
+PSI07,4,GCA_000283475.1,Complete,NC_014311.1,FP885906.2,,,NO,,,,,
+RS 488,2B,GCA_002501565.1,Complete,NZ_CP021652.1,CP021652.1,,,NO,,,,,
+RS 489,2B,GCA_002549815.1,Complete,NZ_CP021766.1,CP021766.1,,,NO,,,,,
+RS10,1,GCA_018861195.1,Complete,CP076415.1,,,,NO,,,,,
+RS24,1,GCA_018733955.1,Complete,NZ_CP076120.1,CP076120.1,,,NO,,,,,
+Rs5,2A,GCA_014884745.1,Complete,NZ_CP051175.1,CP051175.1,,,YES,2,GTGTTCCCCGCGTGGGCGGGGATGAACCG - GTGTTCCCCGCGCATGCGGGGATGAACCG,I-E,"One genomically bona-fide and structurally functional array (score 0.762) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.762
+RSCM,1,GCA_002894285.1,Complete,NZ_CP025985.1,CP025985.1,,,NO,,,,,
+RS-N,1,GCA_024023015.1,Complete,CP099579.1,CP099580.1,,,,,,,,
+Rs-SY1,1,GCA_018731965.1,Complete,NZ_CP076115.1,CP076115.1,,,NO,,,,,
+RUN2279-UW773,3,GCA_014884705.1,Complete,NZ_CP051171.1,CP051171.1,,,YES,2,GTGTTCCCCGCGTGGGCGGGGATGAACCG - GTGTTCCCCGCGAGTGCGGGGATGAACCG,,,
+RUN2474-UW774,3,GCA_014884685.1,Complete,NZ_CP051169.1,CP051169.1,,,NO,,,,,
+SEPPX05,1,GCA_002162015.1,Complete,NZ_CP021448.1,CP021448.1,,,YES,2,GTGTTCCCCGCGTATGCGGGGATGAACCG - GTGTTCCCCGCGTGTGCGGGGATGAACCG,,,
+SL2064,4,GCA_003515445.1,Complete,NZ_CP022798.1,CP022798.1,,,NO,,,,,
+SL2312,4,GCA_003515425.1,Complete,NZ_CP022796.1,CP022796.1,,,YES,,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,,,
+SL2330,1,GCA_003515225.1,Complete,NZ_CP022794.1,CP022794.1,,,YES,,GTGTTCCCCGCGTGTGCGGGGATGAACCG - GTGTTCCCCGCGTATGCGGGGATGAACCG,,,
+SL2729,1,GCA_003515405.1,Complete,NZ_CP022792.1,CP022792.1,,,,,,,,
+SL3022,4,GCA_003515385.1,Complete,CP023016.1,,,,YES,,GTGTTCCCCGCGTGGGCGGGGATGAACCG - GTGTTCCCCGCGCAGGCGGGGATGAACCG,,,
+SL3103,1,GCA_003515205.1,Complete,NZ_CP022790.1,CP022790.1,,,NO,,,,,
+SL3175,4,GCA_003515185.1,Complete,NZ_CP022788.1,CP022788.1,,,YES,,CAGATAGCCGTAGGTATCGGCCTGGCGATCGGCGCC,,,
+SL3300,1,GCA_003515625.1,Complete,NZ_CP022786.1,CP022786.1,,,NO,,,,,
+SL3730,1,GCA_003515365.1,Complete,NZ_CP022784.1,CP022784.1,,,NO,,,,,
+SL3755,1,GCA_003515345.1,Complete,NZ_CP022782.1,CP022782.1,,,YES,,"GTGTTCCCCGCGTGTGCGGGGATGAACCG - 
+GTGTTCCCCGCGTATGCGGGGATGAACCG",,,
+SL3822,1,GCA_003515605.1,Complete,NZ_CP022780.1,CP022780.1,,,NO,,,,,
+SL3882,1,GCA_003515585.1,Complete,NZ_CP022778.1,CP022778.1,,,NO,,,,,
+SY1,1,GCA_018540425.1,Complete,NZ_CP071914.1,CP071914.1,,,YES,,"GTGTTCCCCGCGTATGCGGGGATGAACCG - 
+GTGTTCCCCGCGTGTGCGGGGATGAACCG",,,
+T101,4,GCA_003515485.1,Complete,NZ_CP022757.1,CP022757.1,,,YES,,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,,,
+T11,4,GCA_003515165.1,Complete,NZ_CP022776.1,CP022776.1,,,NO,,,,,
+T110,1,GCA_003515465.1,Complete,CP023012.1,,,,YES,,"GTGTTCCCCGCGTGTGCGGGGATGAACCG -
+GTGTTCCCCGCGTATGCGGGGATGAACCG",,,
+T117,1,GCA_003515245.1,Complete,NZ_CP022755.1,CP022755.1,,,NO,,,,,
+T12,4,GCA_003515325.1,Complete,NZ_CP022774.1,CP022774.1,,,YES,,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,,,
+T25,1,GCA_003515305.1,Complete,CP023014.1,,,,YES,,"GTGTTCCCCGCGTGTGCGGGGATGAACCG - 
+GTGTTCCCCGCGTATGCGGGGATGAACCG",,,
+T42,1,GCA_003515565.1,Complete,NZ_CP022772.1,CP022772.1,,,NO,,,,,
+T51,4,GCA_003515145.1,Complete,NZ_CP022770.1,CP022770.1,,,NO,,,,,
+T60,1,GCA_003515545.1,Complete,NZ_CP022768.1,CP022768.1,,,NO,,,,,
+T78,1,GCA_003515285.1,Complete,NZ_CP022765.1,CP022765.1,,,NO,,,,,
+T82,4,GCA_003515525.1,Complete,NZ_CP022763.1,CP022763.1,,,YES,,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,,,
+T95,4,GCA_003515505.1,Complete,NZ_CP022761.1,CP022761.1,,,NO,,,,,
+T98,4,GCA_003515265.1,Complete,NZ_CP022759.1,CP022759.1,,,NO,,,,,
+UW163,2B,GCA_001587135.1,Complete,NZ_CP012939.1,CP012939.1,,,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG - 
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.603) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.603
+UW386,3,GCA_006088755.1,Complete,NZ_CP039339.1,CP039339.1,,,YES,,GTGTTCCCCGCGCATGCGGGGATGAACCG,,,
+UW763,1,GCA_014884725.1,Complete,NZ_CP051173.1,CP051173.1,,,NO,,,,,
+UY031,2B,GCA_001299555.1,Complete,NZ_CP012687.1,CP012687.1,,,NO,,,,,
+YC40-M,1,GCA_001663415.1,Complete,NZ_CP015850.1,CP015850.1,,,NO,,,,,
+YC45,1,GCA_001267515.1,Complete,CP011997.1,,,,NO,,,,,
+YQ,1,GCA_014041975.1,Complete,NZ_CP059489.1,CP059489.1,,,NO,,,,,
+10154,1,GCA_008271845.1,Contig,,,PPPO01,509,NO,,,,,
+10179,1,GCA_008271855.1,Contig,,,PPPN01,785,NO,,,,,
+10180,1,GCA_008271775.1,Contig,,,PPPM01,888,NO,,,,,
+10314,2B,GCA_008271875.1,Contig,,,PPPP01,391,NO,,,,,
+23-10BR,2B,GCA_000749995.1,Contig,,,JQOI01,94,MAYBE,,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,-,"Only two spacers, and no Cas cassette were found due to no CRISPR presence or fragmented in the contigs.",0.640
+CFBP3581,2B,GCA_015911945.1,Contig,,,JACWPJ01,227,NO,,,,,
+CFBP3059,3,GCA_001644855.1,Contig,,,JXBA01,399,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG - 
+GTGTTCCCCGCGCATGCGGGGATGAACCG",,,
+CFBP6783,2B,GCA_001644815.1,Contig,,,JXAZ01,178,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG - 
+GTGTTCCCCGCGCCTGCGGGGATGAACCG - 
+CGCGTGTCCGTGCCTGCGCGGATACGCCG",I-E,"One genomically bona-fide and structurally functional array (score 0.732) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. The lowest-score array (0.634) possibly is the product of an off-target insertion.",0.732
+CIP120,2A,GCA_001644795.1,Contig,,,JXAY01,145,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG - 
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.762) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.762
+FJAT-1458,1,GCA_000331895.1,Contig,,,AHIX01,1447,NO,,,,,
+FJAT-91,1,GCA_000331875.1,Contig,,,AHIY01,1322,NO,,,,,
+GEO_230,2B,GCA_002894795.1,Contig,,,PHHL01,125,NO,,,,,
+GEO_304,2B,GCA_002894775.1,Contig,,,PHHO01,110,NO,,,,,
+GEO_55,2B,GCA_002894845.1,Contig,,,PHHP01,168,NO,,,,,
+GEO_6,2B,GCA_002894765.1,Contig,,,PHHM01,123,NO,,,,,
+GEO_81,2B,GCA_002894785.1,Contig,,,PHHN01,135,NO,,,,,
+IPO 0715,2B,GCA_015910755.1,Contig,,,JACWNM01,170,NO,,,,,
+IPO 0738,2B,GCA_015910785.1,Contig,,,JACWNL01,148,NO,,,,,
+IPO:1750,2B,GCA_015911975.1,Contig,,,JACWPK01,223,NO,,,,,
+IPO:1752,2B,GCA_015911935.1,Contig,,,JACWPI01,159,NO,,,,,
+IPO:1804,2B,GCA_015911895.1,Contig,,,JACWPH01,147,NO,,,,,
+IPO:1805,2B,GCA_015911875.1,Contig,,,JACWPG01,148,NO,,,,,
+IPO:1806,2B,GCA_015911905.1,Contig,,,JACWPF01,150,NO,,,,,
+IPO:1808,2B,GCA_015911835.1,Contig,,,JACWPE01,149,NO,,,,,
+IPO:1809,2B,GCA_015911845.1,Contig,,,JACWPD01,199,NO,,,,,
+IPO:1828,2B,GCA_015911795.1,Contig,,,JACWPC01,146,NO,,,,,
+IPO:3731,2B,GCA_015911775.1,Contig,,,JACWPA01,194,NO,,,,,
+K60,2A,GCA_000285815.1,Contig,,,CAGT01,347,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCATGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.751) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. ",0.751
+K60,2A,GCA_002251695.1,Contig,,,NCTK01,2,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCATGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.751) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.751
+MolK2,2B,GCA_000212635.2,Contig,,,CAHW02,349,NO,,,,,
+NAK 159,2B,GCA_015911395.1,Contig,,,JACWQO01,148,NO,,,,,
+NAK 161,2B,GCA_015911355.1,Contig,,,JACWQN01,151,NO,,,,,
+NAK 162,2B,GCA_015911305.1,Contig,,,JACWQM01,165,NO,,,,,
+NAK 163,2B,GCA_015911295.1,Contig,,,JACWQL01,148,NO,,,,,
+NAK 164,2B,GCA_015911255.1,Contig,,,JACWQK01,148,NO,,,,,
+NAK 165,2B,GCA_015911285.1,Contig,,,JACWQJ01,3066,NO,,,,,
+NAK 166,2B,GCA_015911275.1,Contig,,,JACWQI01,145,NO,,,,,
+NAK 170,2B,GCA_015911215.1,Contig,,,JACWQH01,153,NO,,,,,
+NAK 180,2B,GCA_015911195.1,Contig,,,JACWQG01,148,NO,,,,,
+NAK 198,2B,GCA_015911205.1,Contig,,,JACWOG01,158,NO,,,,,
+NAK 199,2B,GCA_015911165.1,Contig,,,JACWOF01,146,NO,,,,,
+NAK 201,2B,GCA_015911155.1,Contig,,,JACWOE01,144,NO,,,,,
+NAK 202,2B,GCA_015911115.1,Contig,,,JACWOD01,149,NO,,,,,
+NAK 204,2B,GCA_015911055.1,Contig,,,JACWOC01,145,NO,,,,,
+NAK 210,2B,GCA_015911095.1,Contig,,,JACWOB01,148,NO,,,,,
+NAK 213,2B,GCA_015911075.1,Contig,,,JACWOA01,154,NO,,,,,
+NAK 214,2B,GCA_015911025.1,Contig,,,JACWNZ01,147,NO,,,,,
+NAK 215,2B,GCA_015911065.1,Contig,,,JACWNY01,146,NO,,,,,
+NAK 216,2B,GCA_015911015.1,Contig,,,JACWNX01,151,NO,,,,,
+NAK 7,2B,GCA_015910965.1,Contig,,,JACWNW01,253,NO,,,,,
+NCPPB 282,2B,GCA_000750575.1,Contig,,,JQSH01,181,NO,,,,,
+NCPPB 325,2A,GCA_015910705.1,Contig,,,JACWNG01,19,YES,,"GTGTTCCCCGCGCATGCGGGGATGAACCG - 
+GTGTTCCCCGCGTGGGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.753) downstream of the type I-E Cas cassette in the reverse strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. ",0.753
+NCPPB 3985,2B,GCA_015910635.1,Contig,,,JACWND01,12,YES,,"GTGTTCCCCGCGCCTGCGGGGATGAACCG - 
+GTGTTCCCCGCGTGGGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.725) downstream of the type I-E Cas cassette in the reverse strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. ",0.725
+P380,1,GCA_021462455.1,Contig,,,JAKEEA01,162,YES,,"GTGTTCCCCGCGTGTGCGGGGATGAACCG -
+GTGTTCCCCGCGTATGCGGGGATGAACCG",,,
+P597,2A,GCA_001644805.1,Contig,,,JIBY01,530,NO,,,,,
+P673,2B,GCA_000525615.1,Contig,,,JALO01,251,NO,,,,,
+P781,1,GCA_001644865.1,Contig,,,JXLK01,298,NO,,,,,
+P822,2A,GCA_003576005.1,Contig,,,PQWP01,181,NO,,,,,
+PD 134,2B,GCA_015910925.1,Contig,,,JACWNT01,185,NO,,,,,
+PD 141,2B,GCA_015910795.1,Contig,,,JACWNN01,186,NO,,,,,
+PD 1414,2A,GCA_015910875.1,Contig,,,JACWNR01,369,NO,,,,,
+PD 1446,2B,GCA_015910885.1,Contig,,,JACWNQ01,115,NO,,,,,
+PD 1447,2B,GCA_015910855.1,Contig,,,JACWNP01,137,NO,,,,,
+PD 2762,2B,GCA_015910825.1,Contig,,,JACWNO01,267,NO,,,,,
+PD 3223,2B,GCA_015911555.1,Contig,,,JACWOQ01,191,NO,,,,,
+PD 3269,2B,GCA_015911565.1,Contig,,,JACWOP01,166,NO,,,,,
+PD 3270,2A,GCA_015911515.1,Contig,,,JACWOO01,165,NO,,,,,
+PD 3668,2B,GCA_015911455.1,Contig,,,JACWOL01,395,NO,,,,,
+PD 4027,2B,GCA_015911465.1,Contig,,,JACWOK01,354,NO,,,,,
+PD 4124,2B,GCA_015911415.1,Contig,,,JACWOJ01,145,NO,,,,,
+PD 4321,2B,GCA_015911405.1,Contig,,,JACWOH01,280,NO,,,,,
+PD 445,2B,GCA_015910775.1,Contig,,,JACWNK01,150,NO,,,,,
+PD 511,2A,GCA_015910915.1,Contig,,,JACWNS01,1341,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCATGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.753) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. ",0.753
+PD:1254,2B,GCA_015912135.1,Contig,,,JACWPS01,161,NO,,,,,
+PD:1260,2B,GCA_015912085.1,Contig,,,JACWPR01,210,NO,,,,,
+PD:1408,2B,GCA_015912105.1,Contig,,,JACWPQ01,199,NO,,,,,
+PD:1445,2B,GCA_015912065.1,Contig,,,JACWPP01,108,NO,,,,,
+PD:2625,2B,GCA_015911725.1,Contig,,,JACWOY01,498,NO,,,,,
+PD:2763,2B,GCA_015912235.1,Contig,,,JACWPX01,36,NO,,,,,
+PD:2940,2B,GCA_015912035.1,Contig,,,JACWPN01,149,NO,,,,,
+PD:2941,2B,GCA_015912005.1,Contig,,,JACWPM01,150,NO,,,,,
+PD:2942,2B,GCA_015911985.1,Contig,,,JACWPL01,146,NO,,,,,
+PD:3049,2B,GCA_015911715.1,Contig,,,JACWOX01,347,NO,,,,,
+PD:3115,2B,GCA_015911685.1,Contig,,,JACWOW01,385,NO,,,,,
+PD:3121,2B,GCA_015911675.1,Contig,,,JACWOV01,419,NO,,,,,
+PD:3203,2B,GCA_015911625.1,Contig,,,JACWOT01,223,NO,,,,,
+PD:3222,2B,GCA_015911585.1,Contig,,,JACWOR01,248,YES,,"GTGTTCCCCGCGCCTGCGGGGATGAACCG - 
+GTGTTCCCCGCGTGGGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.695) downstream of the type I-E Cas cassette in the reverse strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. ",0.695
+PD:441,2B,GCA_015911785.1,Contig,,,JACWPB01,131,NO,,,,,
+Pe_1,1,GCA_011420365.1,Contig,,,WSNR01,5,NO,,,,,
+Pe_27,1,GCA_012062505.1,Contig,,,WSYT01,9,NO,,,,,
+Pe_3,1,GCA_012062465.1,Contig,,,WSYS01,3,NO,,,,,
+Pe_39,1,GCA_012062495.1,Contig,,,WSYU01,4,NO,,,,,
+Pe_57,1,GCA_012062545.1,Contig,,,WSYV01,2,NO,,,,,
+POPS2,2B,GCA_000750585.1,Contig,,,JQSI01,703,MAYBE,,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,-,One genomically bona-fide and structurally functional array (score 0.554) without the Cas cassette,0.554
+PSS1308,1,GCA_001870805.1,Contig,,,MOLO01,162,NO,,,,,
+PSS190,1,GCA_001870825.1,Contig,,,MOLP01,189,NO,,,,,
+RsT01,2B,GCA_022095055.1,Contig,,,JAKNBN01,104,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG - 
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.634) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. ",0.634
+SD54,1,GCA_000430925.2,Contig,,,ASQR02,165,NO,,,,,
+UTT-25,1,GCA_002930085.2,Contig,,,PPFC02,1058,YES,,"GTGTTCCCCGCGTGTGCGGGGATGAACCG - 
+GTGTTCCCCGCGTATGCGGGGATGAACCG -
+GTGTTCCCCGCGTGTGCGGGGATGAACCG",,,
+UW24,2B,GCA_001696855.1,Contig,,,LVKT01,124,NO,,,,,
+UW365,2B,GCA_001696865.1,Contig,,,LVKS01,136,NO,,,,,
+UW491,2B,GCA_001696845.1,Contig,,,LVKU01,118,NO,,,,,
+UW551,2B,GCA_001696875.1,Contig,,,LVKV01,130,NO,,,,,
+UW551,2B,GCA_002251655.1,Contig,,,NCTI01,2,NO,,,,,
+UW700,2A,GCA_002251605.3,Contig,,,NCTJ03,11,YES,,"GTGTTCCCCGCGCATGCGGGGATGAACCG - 
+GTGTTCCCCGCGTGGGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.737) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. ",0.737
+UW848,2B,GCA_013359535.1,Contig,,,JABVMB01,160,NO,,,,,
+58_RSOL,HUMANA,GCA_001065525.1,Scaffold,,,JVBI01,224,NO,,,,,
+B50,2A,GCA_000825785.2,Scaffold,,,CDMA01,1,YES,,"GTGTTCCCCGCGCCTGCGGGGATGAACCG - 
+GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG - 
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional arrays. The second highest-score array (0.732) is downstream of the type I-E Cas cassette in the forward strand. The repeat of the first highest-scored array (0.762) is exactly similar to the repeat sequence of the second highest-score array (0.732), while the third highest-scored array is very similar. Maybe, the isolated arrays use promiscuous Cas proteins from the functional array (score 0.732). ",0.762
+BBAC-C1,2A,GCA_001901665.1,Scaffold,,,MKKZ01,20,NO,,,,,
+CCRMRs277,2A,GCA_014210395.1,Scaffold,,,JABZEK01,2,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG - 
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.762) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. ",0.762
+CCRMRs287,2B,GCA_014210375.1,Scaffold,,,JABZEJ01,2,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG - 
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.603) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. ",0.603
+CCRMRs304,2A,GCA_014210335.1,Scaffold,,,JABZEI01,2,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG - 
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.762) downstream of the type I-E Cas cassette in the forward strand. The repeat of the other array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. ",0.762
+CCRMRsB7,2B,GCA_014210345.1,Scaffold,,,JABZEH01,2,NO,,,,,
+CFBP1416,2B,GCA_000825925.2,Scaffold,,,CDLX01,1,NO,,,,,
+CFBP3858,2B,GCA_001373335.1,Scaffold,,,CDQJ01,1,YES,,"GTGTTCCCCGCGCCTGCGGGGATGAACCG - 
+GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.676) downstream of the type I-E Cas cassette in the reverse strand. The repeat of the other array is very similar to the repeat sequence of the second highest-scored array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. The isolated array (0.603) has no Cas cassette in the vicinity, but its consensus repeat is very similar to the repeat of the functional arrays.",0.676
+CFBP6783,2B,GCA_000825885.2,Scaffold,,,CDLS01,1,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG -GTGTTCCCCGCGCCTGCGGGGATGAACCG -
+GTGTTCCCCGCGTCTGCGGGGATGAACCG -
+GGCGTATCCGCGCAGGCACGGACACGCGGG -
+GTGTTCCCCGCGTGGGCGGGGATGAACCG -",I-E,One genomically bona-fide and structurally functional array (score 0.603) downstream of the type I-E Cas cassette in the forward strand. The repeat sequences of the other arrays are very similar to the repeat of the functional array. All the isolated arrays seem to be products of off-target insertions of the functional array.,0.603
+CFBP7014,2B,GCA_001373255.1,Scaffold,,,CDRJ01,1,YES,,AGGTTAGCAGATCGGGAATTGCGCTCTGGCTACAAC,II-C,"One genomically bona-fide and structurally functional array in the forward strand (score 0.664) upstream of the Cas cassette, which is in the minus strand.",0.664
+CFIA906,2B,GCA_000710135.3,Scaffold,,,JNVP03,165,NO,,,,,
+CIP417,2B,GCA_000825825.2,Scaffold,,,CDMD01,1,NO,,,,,
+FJAT-452,1,GCA_001920905.2,Scaffold,MLYU01000002.1,,MLYU01,309,NO,,,,,
+FJAT-462,1,GCA_001920895.2,Scaffold,MLYS01000002.1,,MLYS01,358,NO,,,,,
+FJAT-91,1,GCA_001920885.2,Scaffold,MLYT01000002.1,,MLYT01,329,NO,,,,,
+GEO_57,2B,GCA_002029885.1,Scaffold,,,MXAM01,145,NO,,,,,
+GEO_96,2B,GCA_002029895.1,Scaffold,,,MZNA01,129,NO,,,,,
+GEO_99,2B,GCA_002029865.1,Scaffold,,,MZNB01,147,NO,,,,,
+Grenada 9-1,2A,GCA_000825845.2,Scaffold,,,CDLW01,1,NO,,,,,
+IBSBF1503,2B,GCA_000825905.2,Scaffold,,,CDLY01,1,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG -
+GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG -
+GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG -
+GTGTTCCCCGCGTGGGCGGGGATGAACCG",I-E,One genomically bona-fide and structurally functional array (score 0.762) downstream of the type I-E Cas cassette in the reverse strand. The repeat sequences of the other arrays are very similar to the repeat of the functional array. All the isolated arrays seem to be products of off-target insertions of the functional array or loss of the Cas cassette.,0.762
+IBSBF1900,2A,GCA_001373275.1,Scaffold,,,CDRW01,1,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG -
+GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",I-E,One structurally functional array (score 0.645) downstream of the type I-E Cas cassette in the forward strand. The repeat sequences of the other arrays are very similar to the repeat of the functional array. This is such a special case where the longest arrays do not present Cas cassettes identified.,0.645
+IPO1609,2B,GCA_001050995.1,Scaffold,,,CDGL01,10,NO,,,,,
+NCPPB 909,2B,GCA_000710695.1,Scaffold,,,JNGD01,215,NO,,,,,
+P488,2B,GCA_023646615.1,Scaffold,,,JALNIZ01,200,NO,,,,,
+P545,2,GCA_023700725.1,Scaffold,,,JAMPLQ01,101,NO,,,,,
+P557,2,GCA_023646585.1,Scaffold,,,JALNIY01,115,NO,,,,,
+P565,2B,GCA_023646575.1,Scaffold,,,JALNIX01,104,NO,,,,,
+P575,2B,GCA_023646555.1,Scaffold,,,JALNIW01,111,NO,,,,,
+P673,2B,GCA_023646435.1,Scaffold,,,JALNIR01,69,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG -
+CGCGTGTCCGTGCCTGCGCGGATACGCCG",I-E,"One genomically bona-fide and structurally functional array (score 0.732) downstream of the type I-E Cas cassette in the forward strand. The repeat of the second highest-scored array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. There is another array (0.634) with a different consensus repeat, maybe a product of off-target insertions.",0.732
+P780,2B,GCA_023646535.1,Scaffold,,,JALNIV01,97,NO,,,,,
+P816,2A,GCA_003337165.1,Scaffold,,,MTBB01,142,NO,,,,,
+P840,2B,GCA_023646495.1,Scaffold,,,JALNIU01,102,NO,,,,,
+Pe_13,1,GCA_012062595.1,Scaffold,,,WSYX01,248,NO,,,,,
+Pe_15,1,GCA_012062645.1,Scaffold,,,WSZA01,237,NO,,,,,
+Pe_18,1,GCA_012271525.1,Scaffold,,,JAABKA01,254,NO,,,,,
+Pe_2,1,GCA_012062585.1,Scaffold,,,WSYW01,213,NO,,,,,
+Pe_24,1,GCA_012271545.1,Scaffold,,,JAABJZ01,253,NO,,,,,
+Pe_26,1,GCA_012271495.1,Scaffold,,,JAABJY01,200,NO,,,,,
+Pe_28,1,GCA_012271485.1,Scaffold,,,JAABJX01,247,NO,,,,,
+Pe_30,1,GCA_012271445.1,Scaffold,,,JAABJW01,227,NO,,,,,
+Pe_4,1,GCA_012062655.1,Scaffold,,,WSYZ01,203,NO,,,,,
+Pe_42,1,GCA_012271435.1,Scaffold,,,JAABJV01,272,NO,,,,,
+Pe_45,1,GCA_012271415.1,Scaffold,,,JAABJU01,211,NO,,,,,
+Pe_49,1,GCA_012271385.1,Scaffold,,,JAABJT01,223,NO,,,,,
+Pe_51,1,GCA_012271355.1,Scaffold,,,JAABJS01,229,NO,,,,,
+Pe_52,1,GCA_012271325.1,Scaffold,,,JAABJR01,240,NO,,,,,
+Pe_56,1,GCA_012271305.1,Scaffold,,,JAABJQ01,225,NO,,,,,
+Pe_61,1,GCA_012271315.1,Scaffold,,,JAABJP01,246,NO,,,,,
+Pe_9,1,GCA_012062605.1,Scaffold,,,WSYY01,278,NO,,,,,
+PSS216,1,GCA_001876975.1,Scaffold,,,MOLJ01,224,NO,,,,,
+PSS4,1,GCA_001876985.1,Scaffold,,,MOLK01,134,NO,,,,,
+RD15,1,GCA_001854265.1,Scaffold,,,MNCM01,139,YES,,"GTGTTCCCCGCGTATGCGGGGATGAACCG - 
+GTGTTCCCCGCGTGTGCGGGGATGAACCG",,,
+RS2,2B,GCA_001373295.1,Scaffold,,,CDRX01,1,NO,,,,,
+Rs-T02,1,GCA_001484095.1,Scaffold,,,LKVH01,169,NO,,,,,
+RUN0002,2B,GCA_023646475.1,Scaffold,,,JALNIS01,69,YES,,"CGCGTGTCCGTGCCTGCGCGGATACGCCG - 
+GTGTTCCCCGCGTGGGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.732) downstream of the type I-E Cas cassette in the forward strand. The repeat of the second highest-scored array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. There is another array (0.634) with a different consensus repeat, maybe a product of off-target insertions.",0.732
+RUN0003,2B,GCA_023646515.1,Scaffold,,,JALNIT01,69,YES,,"GTGTTCCCCGCGCCTGCGGGGATGAACCG -
+GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+CGCGTGTCCGTGCCTGCGCGGATACGCCG",I-E,"One genomically bona-fide and structurally functional array (score 0.732) downstream of the type I-E Cas cassette in the forward strand. The repeat of the second highest-scored array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays. There is another array (0.634) with a different consensus repeat, maybe a product of off-target insertions.",0.732
+To_1,1,GCA_012062825.1,Scaffold,,,JAABJO01,235,NO,,,,,
+To_22,1,GCA_012062775.1,Scaffold,,,JAABJM01,223,NO,,,,,
+To_28,1,GCA_012062765.1,Scaffold,,,JAABJL01,235,NO,,,,,
+To_36,1,GCA_012062745.1,Scaffold,,,JAABJK01,252,NO,,,,,
+To_42,1,GCA_012062685.1,Scaffold,,,JAABJJ01,306,NO,,,,,
+To_53,1,GCA_012062725.1,Scaffold,,,JAABJI01,231,NO,,,,,
+To_63,1,GCA_012062695.1,Scaffold,,,JAABJH01,208,NO,,,,,
+To_7,1,GCA_012062785.1,Scaffold,,,JAABJN01,228,NO,,,,,
+UW128,2B,GCA_023646455.1,Scaffold,,,JALNIQ01,83,YES,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",I-E,"One genomically bona-fide and structurally functional array (score 0.603) downstream of the type I-E Cas cassette in the forward strand. The repeat of the second highest-scored array is very similar to the repeat sequence of the highest-score array. Maybe, they are products of a recombination event of the Cas proteins or follow the E. coli type I-E arrays.",0.603
+UW163,2B,GCA_000825865.2,Scaffold,,,CDMB01,1,MAYBE,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",-,Two structurally functional arrays (score 0.603). None of the arrays have neighboring Cas cassettes. The identified Cas cassette is isolated to identified arrays. The consensus repeat of each array is different from each other.,0.603
+UW170,2B,GCA_023646415.1,Scaffold,,,JALNIP01,40,NO,,,,,
+UW179,2B,GCA_000825805.2,Scaffold,,,CDLZ01,1,MAYBE,,"GTGTTCCCCGCGTGGGCGGGGATGAACCG -
+GTGTTCCCTGCGTGGGCGGGGATGAACCG -
+GTGTTCCCCGCGCCTGCGGGGATGAACCG",-,"Two structurally functional arrays (scores 0.762 and 0.634). None of the arrays have neighboring Cas cassettes. The identified Cas cassette is isolated to identified arrays. The consensus repeat of the arrays is similar, implicating recombination events or loss of Cas cassettes. ",0.762
+UW181,2A,GCA_001373315.1,Scaffold,,,CDSB01,1,NO,,,,,
+UW551,2B,GCA_000167955.1,Scaffold,,,AAKL01,577,NO,,,,,
+UW757,1,GCA_001645725.1,Scaffold,,,LFJP01,222,NO,,,,,
+Y45,1,GCA_000223115.2,Scaffold,,,AFWL01,499,NO,,,,,

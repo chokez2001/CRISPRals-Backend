@@ -1,0 +1,7 @@
+Flask==2.2.2
+python-dotenv==0.21.0
+ariadne==0.17.0
+Flask-SQLAlchemy==3.0.2
+Flask-Cors==3.0.10
+pandas==1.5.2
+biopython==1.81
