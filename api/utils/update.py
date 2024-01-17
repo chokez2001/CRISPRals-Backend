@@ -135,13 +135,13 @@ def ralstonia_update(file_name: str, specie: str):
 
 def insert_data_into_db():
     ralstonia_files = [
+         {
+            "file_name": "RalstoniaSolanacearum.csv",
+            "specie": "Solanacearum"
+        },
         {
             "file_name": "ralstoniaPseudosolanacearum.csv",
             "specie": "Pseudosolanacearum"
-        },
-        {
-            "file_name": "RalstoniaSolanacearum.csv",
-            "specie": "Solanacearum"
         },
         {
             "file_name": "ralstoniaSyzygii.csv",
